@@ -1,0 +1,19 @@
+p>a{
+    color: blueviolet;
+    background-color: aqua;
+}
+
+div a {
+    color: rgb(10, 216, 10);
+
+}
+
+h1 ,p{
+    color: orange;
+    background-color: blue;
+}
+
+input[type="text"]
+{
+    color: red;
+}
