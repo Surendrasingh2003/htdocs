@@ -1,0 +1,22 @@
+p
+{
+    border-style: solid;
+    background-color: blueviolet;
+}
+
+.a{
+    padding: 10px;
+}
+.b
+{
+    padding: 20px 10px 20px 10px;
+    text-align: center;
+}
+.c{
+    padding-left: 30px;
+    padding-right: 45px;
+}
+.d{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
