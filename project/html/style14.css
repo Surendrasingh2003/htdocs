@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+.row1{
+    border:solid red 1px;
+    display: block;
+    height: 150px;
+    font-size:0px ;
+}
+ 
+.col1{
+    border: solid black 1px;
+    display: inline-block;
+    height: 100%;
+    width: 33.3%;
+}
+.col2{
+    border: solid black 1px;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+}
+.row2
+{
+    border: solid black 1px;
+    display: block;
+    height: 50%;
+}
+
+.col3{
+    border: solid black 1px;
+    display: inline-block;
+    height: 100%;
+    width: 25%;
+}
+
+.row3
+{
+    border: solid black 1px;
+    display: inline-block;
+    height: 33.3%;
+    width: 100%;
+}

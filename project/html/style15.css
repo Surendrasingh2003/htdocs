@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+p{
+    border: red 1px solid;
+    width: 100px;
+    height: 100px;
+}
+.a
+{
+   
+    padding-right: 20px;
+}

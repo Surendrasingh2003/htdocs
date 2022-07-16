@@ -1,0 +1,16 @@
+div{
+    border: red solid 4px;
+    height: 500px;
+    position: relative;
+}
+
+p
+{
+    border: purple solid 4px;
+}
+.abc
+{
+    position: absolute;
+    bottom: 5px;
+    left: 20px;
+}
