@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+.row1::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.row1{
+    border:solid red 1px;
+    display: block;
+   
+    font-size:0px ;
+}
+ 
+.col1{
+    border: solid black 1px;
+    float: left;
+    height: 150px;
+    width: 33.3%;
+}
+.col2{
+    border: solid black 1px;
+    float: left;
+    height: 150px;
+    width: 50%;
+}
+.row2
+{
+    border: solid black 1px;
+    float: left;
+    height: 50%;
+    width: 100%;
+}
+
+.col3{
+    border: solid black 1px;
+    float: left;
+    height: 150px;
+    width: 25%;
+}
+
+.row3
+{
+    border: solid black 1px;
+    float: left;
+    height: 33.3%;
+    width: 100%;
+}

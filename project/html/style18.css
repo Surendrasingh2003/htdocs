@@ -1,0 +1,23 @@
+.container{
+    border: rgb(00, ff, ff) 1px dotted;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+
+}
+.container > div{
+    border: solid black 1px;
+    width:40px;
+}
+
+.x{
+    flex-basis: 30px;
+}
+
+.a{
+    flex-basis: auto;
+}
+
+.b{
+    flex-basis: 50px;
+}

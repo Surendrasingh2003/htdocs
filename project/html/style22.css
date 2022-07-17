@@ -1,0 +1,27 @@
+.container{
+    border: red solid 1px;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction:row;
+    flex-flow:row nowrap;/* default value nowrap */
+    justify-content: space-evenly;/*flex star is default value.othwer values- flex-end,space around , centre,space-evenly*/
+}
+
+.container > div{
+    border: solid black 1px;
+}
+
+.x{
+    flex:0 0 100px;
+    
+}
+
+.a{
+    flex:0 1 100px;
+}
+
+.b
+{
+    flex:0 1 100px;
+}

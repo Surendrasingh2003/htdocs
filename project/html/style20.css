@@ -1,0 +1,23 @@
+.container{
+    border: red solid 1px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;/* default value nowrap */
+}
+
+.container > div{
+    border: solid black 1px;
+}
+
+.x{
+    flex:0 0 200px;
+}
+
+.a{
+    flex:0 1 200px;
+}
+
+.b
+{
+    flex:0 1 200px;
+}
