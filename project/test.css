@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.y{
+    border: black 2px solid;
+    height: 600px;
+    width: 1200px;
+    
+    
+    
+}
+.x{
+    border: black 2px solid;
+    height: 500px;
+    width: 250px;
+    display: inline-block;
+    margin-left: 30px;
+    vertical-align: top;
+}
